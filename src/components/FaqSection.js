@@ -29,7 +29,7 @@ export default function FaqSection() {
             </div>
 
             <div className="question">
-                <h4>What Product do you offer</h4>
+                <h4>What Product do you offer/</h4>
                 <div className="answer">
                     <p>Lorem ipsum dolor sit amet.</p>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum, eos.</p>

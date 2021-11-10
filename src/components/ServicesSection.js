@@ -8,8 +8,7 @@ import home2 from '../img/home2.png';
 //Styled components
 
 import styled from 'styled-components';
-import { About, Discription , Hide , Image } from "../Styles";
-
+import { About, Discription  , Image } from "../Styles";
 
 const ServicesSection = () => {
     return (
