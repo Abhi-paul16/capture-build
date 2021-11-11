@@ -88,6 +88,7 @@ h3{
     padding: 1rem;
     background: white;
     color: black;
+    font-size:1.2rem;
 }
 `
 
