@@ -17,8 +17,9 @@ function App() {
       
       <GlobalStyles/>
       <Nav/>
+      
  <Routes>
- <Route path="/"  element = {<AboutUs/>} />
+ <Route path="/"  element = {<AboutUs/>}  />
  
  <Route path="/work" element = {<OurWork/>} /  >
     
